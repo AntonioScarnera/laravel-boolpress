@@ -1,12 +1,12 @@
 <template>
-<footer>
-    <h1>Sono il Footer!!</h1>
-</footer>
+    <section>
+        <h1>Home</h1>
+    </section>
 </template>
 
 <script>
 export default {
-    name: 'FooterComponent',
+    name: 'HomeComponent',
 }
 </script>
 
